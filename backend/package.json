@@ -6,7 +6,7 @@
   "scripts": {
     "start" : "nodemon index.js"
   },
-  "author": "Adam La Morre",
+  "author": "Warren Xie",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
